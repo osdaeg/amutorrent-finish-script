@@ -21,9 +21,9 @@ Cuando aMuTorrent detecta que una descarga finalizó, invoca `amutorrent.sh` con
 - Los siguientes servicios corriendo y accesibles:
   - [Gotify](https://gotify.net/) — notificaciones push
   - [ClamAV REST](https://github.com/benzino77/clamav-rest-api) — antivirus
-  - [Transferr](https://github.com/osdaeg/transferr) — transferencia de archivos
-  - [Butler](https://github.com/osdaeg/butler) — generación de fichas con Gemini
-  - [Paste.sh](https://github.com/osdaeg/paste.sh) — para subir logs ante errores
+  - [Transferr](https://codeberg.org/osdaeg/transferr) — transferencia de archivos
+  - [Butler](https://codeberg.org/osdaeg/butler) — generación de fichas con Gemini
+  - [Paste.sh](https://codeberg.org/osdaeg/paste.sh) — para subir logs ante errores
   - [OpenSubtitles API](https://opensubtitles.stoplight.io/) — subtítulos
   - [SubDL API](https://subdl.com/) — subtítulos (fallback)
 
